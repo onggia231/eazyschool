@@ -35,7 +35,7 @@ public class ProjectSecurityConfig {
                         .requestMatchers(mvcMatcherBuilder.pattern("/assets/**")).permitAll()
                         .requestMatchers(mvcMatcherBuilder.pattern("/login")).permitAll()
                         .requestMatchers(mvcMatcherBuilder.pattern("/logout")).permitAll()
-                    .requestMatchers(PathRequest.toH2Console()).permitAll())
+                        .requestMatchers(PathRequest.toH2Console()).permitAll())
                 .formLogin(loginConfigurer -> loginConfigurer.loginPage("/login")
                         .defaultSuccessUrl("/dashboard").failureUrl("/login?error=true").permitAll())
                 .logout(logoutConfigurer -> logoutConfigurer.logoutSuccessUrl("/login?logout=true")
@@ -43,7 +43,7 @@ public class ProjectSecurityConfig {
                 .httpBasic(Customizer.withDefaults());
 
         http.headers(headersConfigurer -> headersConfigurer
-                    .frameOptions(frameOptionsConfig -> frameOptionsConfig.disable()));
+                .frameOptions(frameOptionsConfig -> frameOptionsConfig.disable()));
 
         return http.build();
 
