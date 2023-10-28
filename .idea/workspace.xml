@@ -6,12 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="073362aa-64ca-4708-a50e-ce0252bfe8ec" name="Changes" comment="push code Example 33">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/config/ProjectSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/controller/HolidaysController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/controller/HolidaysController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/model/Holiday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/model/Holiday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/repository/ContactRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/repository/ContactRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/repository/HolidaysRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/repository/HolidaysRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/error.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +83,7 @@
     </configuration>
     <configuration name="EazyschoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="example_33" />
+      <module name="example_34" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.eazyschool.EazyschoolApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,7 +118,7 @@
       <workItem from="1698203231147" duration="49000" />
       <workItem from="1698331667603" duration="4083000" />
       <workItem from="1698370855185" duration="26000" />
-      <workItem from="1698504393074" duration="813000" />
+      <workItem from="1698504393074" duration="2225000" />
     </task>
     <task id="LOCAL-00001" summary="push code">
       <option name="closed" value="true" />
@@ -225,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698338719980</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="push code Example 33">
+      <option name="closed" value="true" />
+      <created>1698509937067</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1698509937067</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +272,7 @@
     <MESSAGE value="push code Example 30" />
     <MESSAGE value="push code Example 31" />
     <MESSAGE value="push code Example 32" />
-    <option name="LAST_COMMIT_MESSAGE" value="push code Example 32" />
+    <MESSAGE value="push code Example 33" />
+    <option name="LAST_COMMIT_MESSAGE" value="push code Example 33" />
   </component>
 </project>
