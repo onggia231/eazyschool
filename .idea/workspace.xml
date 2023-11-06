@@ -9,16 +9,13 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/EazyschoolApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/EazyschoolApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/config/ProjectSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/controller/HolidaysController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/controller/HolidaysController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/constants/EazySchoolConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/constants/EazySchoolConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/controller/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/controller/ContactController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/model/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/model/BaseEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/model/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/model/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/model/Holiday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/model/Holiday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/repository/ContactRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/repository/ContactRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/repository/HolidaysRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/repository/HolidaysRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/rommappers/ContactRowMapper.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/service/ContactService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/service/ContactService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +80,7 @@
     </configuration>
     <configuration name="EazyschoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="example_35" />
+      <module name="example_36" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.eazyschool.EazyschoolApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,7 +117,7 @@
       <workItem from="1698370855185" duration="26000" />
       <workItem from="1698504393074" duration="2979000" />
       <workItem from="1698630154463" duration="45000" />
-      <workItem from="1699280964038" duration="1348000" />
+      <workItem from="1699280964038" duration="1771000" />
     </task>
     <task id="LOCAL-00001" summary="push code">
       <option name="closed" value="true" />
@@ -250,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698511096959</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="push code Example 35">
+      <option name="closed" value="true" />
+      <created>1699282348366</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1699282348366</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,6 +289,7 @@
     <MESSAGE value="push code Example 32" />
     <MESSAGE value="push code Example 33" />
     <MESSAGE value="push code Example 34" />
-    <option name="LAST_COMMIT_MESSAGE" value="push code Example 34" />
+    <MESSAGE value="push code Example 35" />
+    <option name="LAST_COMMIT_MESSAGE" value="push code Example 35" />
   </component>
 </project>
