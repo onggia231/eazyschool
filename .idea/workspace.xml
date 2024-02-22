@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="073362aa-64ca-4708-a50e-ce0252bfe8ec" name="Changes" comment="push code Example 38">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/security/EazySchoolUsernamePwdAuthenticationProvider.java" afterDir="false" />
+    <list default="true" id="3dee3bc0-c456-4ccd-8d6d-f17bcee249e5" name="Changes" comment="push code Example 38">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/config/ProjectSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/repository/PersonRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/repository/PersonRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/controller/GlobalExceptionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/controller/GlobalExceptionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/security/EazySchoolUsernamePwdAuthenticationProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/security/EazySchoolUsernamePwdAuthenticationProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/service/PersonService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/service/PersonService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/validations/FieldsValueMatchValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/validations/FieldsValueMatchValidator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/eazyschool_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/eazyschool_data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/css/style-starter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/style-starter.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,20 +31,15 @@
     </option>
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="2Wy4O5IqIg8bEhop5zjdLbG7Qr8" />
+  <component name="ProjectId" id="2WxrYFLtduMY18tx7byd4EERLNR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -54,31 +49,11 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.23106796",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="project_eazyschool" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="project_eazyschool" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="EazyschoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="example_38" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.eazyschool.EazyschoolApplication" />
@@ -90,233 +65,21 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="073362aa-64ca-4708-a50e-ce0252bfe8ec" name="Changes" comment="" />
-      <created>1697691452226</created>
+      <changelist id="3dee3bc0-c456-4ccd-8d6d-f17bcee249e5" name="Changes" comment="" />
+      <created>1697685120509</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1697691452226</updated>
-      <workItem from="1697691454376" duration="62000" />
-      <workItem from="1697696840032" duration="4062000" />
-      <workItem from="1697708265372" duration="10000" />
-      <workItem from="1697708280320" duration="969000" />
-      <workItem from="1697709265656" duration="8000" />
-      <workItem from="1697709278425" duration="1170000" />
-      <workItem from="1697728630883" duration="1254000" />
-      <workItem from="1697766066360" duration="2863000" />
-      <workItem from="1697769179297" duration="7000" />
-      <workItem from="1697769191515" duration="1528000" />
-      <workItem from="1697783345274" duration="1197000" />
-      <workItem from="1698036611334" duration="9000" />
-      <workItem from="1698036628985" duration="13000" />
-      <workItem from="1698036647478" duration="200000" />
-      <workItem from="1698036857727" duration="94000" />
-      <workItem from="1698042380128" duration="1919000" />
-      <workItem from="1698111079102" duration="521000" />
-      <workItem from="1698203231147" duration="49000" />
-      <workItem from="1698331667603" duration="4083000" />
-      <workItem from="1698370855185" duration="26000" />
-      <workItem from="1698504393074" duration="2979000" />
-      <workItem from="1698630154463" duration="45000" />
-      <workItem from="1699280964038" duration="5279000" />
-      <workItem from="1699320623565" duration="788000" />
-      <workItem from="1705889868083" duration="2096000" />
-      <workItem from="1706028237359" duration="96000" />
-      <workItem from="1706351577223" duration="29000" />
-      <workItem from="1706351636141" duration="11000" />
-      <workItem from="1708612588410" duration="805000" />
-      <workItem from="1708613464961" duration="599000" />
-      <workItem from="1708614773178" duration="14000" />
-      <workItem from="1708614798448" duration="597000" />
+      <updated>1697685120509</updated>
+      <workItem from="1697685121730" duration="2225000" />
+      <workItem from="1697689314637" duration="14000" />
+      <workItem from="1708615461659" duration="1084000" />
     </task>
-    <task id="LOCAL-00001" summary="push code">
-      <option name="closed" value="true" />
-      <created>1697701080630</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1697701080630</updated>
-    </task>
-    <task id="LOCAL-00002" summary="push code Example 5">
-      <option name="closed" value="true" />
-      <created>1697708204631</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1697708204631</updated>
-    </task>
-    <task id="LOCAL-00003" summary="push code Example 21">
-      <option name="closed" value="true" />
-      <created>1698030198211</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1698030198211</updated>
-    </task>
-    <task id="LOCAL-00004" summary="push code Example 22">
-      <option name="closed" value="true" />
-      <created>1698030780807</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1698030780807</updated>
-    </task>
-    <task id="LOCAL-00005" summary="push code Example 23">
-      <option name="closed" value="true" />
-      <created>1698031473994</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1698031473994</updated>
-    </task>
-    <task id="LOCAL-00006" summary="push code Example 24">
-      <option name="closed" value="true" />
-      <created>1698032287600</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1698032287600</updated>
-    </task>
-    <task id="LOCAL-00007" summary="push code Example 25">
-      <option name="closed" value="true" />
-      <created>1698032715462</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1698032715462</updated>
-    </task>
-    <task id="LOCAL-00008" summary="push code Example 26">
-      <option name="closed" value="true" />
-      <created>1698033394783</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1698033394783</updated>
-    </task>
-    <task id="LOCAL-00009" summary="push code Example 27">
-      <option name="closed" value="true" />
-      <created>1698035988042</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1698035988042</updated>
-    </task>
-    <task id="LOCAL-00010" summary="push code Example 28">
-      <option name="closed" value="true" />
-      <created>1698045737360</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1698045737360</updated>
-    </task>
-    <task id="LOCAL-00011" summary="push code Example 29">
-      <option name="closed" value="true" />
-      <created>1698050501177</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1698050501177</updated>
-    </task>
-    <task id="LOCAL-00012" summary="push code Example 30">
-      <option name="closed" value="true" />
-      <created>1698052976308</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1698052976308</updated>
-    </task>
-    <task id="LOCAL-00013" summary="push code Example 31">
-      <option name="closed" value="true" />
-      <created>1698053608198</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1698053608198</updated>
-    </task>
-    <task id="LOCAL-00014" summary="push code Example 32">
-      <option name="closed" value="true" />
-      <created>1698338719980</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1698338719980</updated>
-    </task>
-    <task id="LOCAL-00015" summary="push code Example 33">
-      <option name="closed" value="true" />
-      <created>1698509937067</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1698509937067</updated>
-    </task>
-    <task id="LOCAL-00016" summary="push code Example 34">
-      <option name="closed" value="true" />
-      <created>1698511096959</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1698511096959</updated>
-    </task>
-    <task id="LOCAL-00017" summary="push code Example 35">
-      <option name="closed" value="true" />
-      <created>1699282348366</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1699282348366</updated>
-    </task>
-    <task id="LOCAL-00018" summary="push code Example 36">
-      <option name="closed" value="true" />
-      <created>1699283088456</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1699283088456</updated>
-    </task>
-    <task id="LOCAL-00019" summary="push code Example 37">
-      <option name="closed" value="true" />
-      <created>1699287984455</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1699287984455</updated>
-    </task>
-    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="push code" />
-    <MESSAGE value="push code Example 5" />
-    <MESSAGE value="push code Example 21" />
-    <MESSAGE value="push code Example 22" />
-    <MESSAGE value="push code Example 23" />
-    <MESSAGE value="push code Example 24" />
-    <MESSAGE value="push code Example 25" />
-    <MESSAGE value="push code Example 26" />
-    <MESSAGE value="push code Example 27" />
-    <MESSAGE value="push code Example 28" />
-    <MESSAGE value="push code Example 29" />
-    <MESSAGE value="push code Example 30" />
-    <MESSAGE value="push code Example 31" />
-    <MESSAGE value="push code Example 32" />
-    <MESSAGE value="push code Example 33" />
-    <MESSAGE value="push code Example 34" />
-    <MESSAGE value="push code Example 35" />
-    <MESSAGE value="push code Example 36" />
-    <MESSAGE value="push code Example 37" />
     <MESSAGE value="push code Example 38" />
     <option name="LAST_COMMIT_MESSAGE" value="push code Example 38" />
   </component>
