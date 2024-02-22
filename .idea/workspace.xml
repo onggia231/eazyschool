@@ -4,17 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="073362aa-64ca-4708-a50e-ce0252bfe8ec" name="Changes" comment="push code Example 36">
+    <list default="true" id="073362aa-64ca-4708-a50e-ce0252bfe8ec" name="Changes" comment="push code Example 38">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/security/EazySchoolUsernamePwdAuthenticationProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/config/ProjectSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/config/ProjectSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/constants/EazySchoolConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/constants/EazySchoolConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/repository/PersonRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eazybytes/eazyschool/repository/PersonRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/eazyschool_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/eazyschool_data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/eazyschool_schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/eazyschool_schema.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/assets/css/style-starter.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/assets/css/style-starter.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.23106796",
     "settings.editor.selected.configurable": "preferences.pluginManager",
@@ -78,8 +77,10 @@
       </method>
     </configuration>
     <configuration name="EazyschoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
-      <module name="example_37" />
+      <module name="example_38" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.eazybytes.eazyschool.EazyschoolApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -116,7 +117,16 @@
       <workItem from="1698370855185" duration="26000" />
       <workItem from="1698504393074" duration="2979000" />
       <workItem from="1698630154463" duration="45000" />
-      <workItem from="1699280964038" duration="4396000" />
+      <workItem from="1699280964038" duration="5279000" />
+      <workItem from="1699320623565" duration="788000" />
+      <workItem from="1705889868083" duration="2096000" />
+      <workItem from="1706028237359" duration="96000" />
+      <workItem from="1706351577223" duration="29000" />
+      <workItem from="1706351636141" duration="11000" />
+      <workItem from="1708612588410" duration="805000" />
+      <workItem from="1708613464961" duration="599000" />
+      <workItem from="1708614773178" duration="14000" />
+      <workItem from="1708614798448" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="push code">
       <option name="closed" value="true" />
@@ -262,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699283088456</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="push code Example 37">
+      <option name="closed" value="true" />
+      <created>1699287984455</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1699287984455</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +316,8 @@
     <MESSAGE value="push code Example 34" />
     <MESSAGE value="push code Example 35" />
     <MESSAGE value="push code Example 36" />
-    <option name="LAST_COMMIT_MESSAGE" value="push code Example 36" />
+    <MESSAGE value="push code Example 37" />
+    <MESSAGE value="push code Example 38" />
+    <option name="LAST_COMMIT_MESSAGE" value="push code Example 38" />
   </component>
 </project>
