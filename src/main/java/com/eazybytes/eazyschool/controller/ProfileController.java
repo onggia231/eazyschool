@@ -45,7 +45,7 @@ public class ProfileController {
 
     @PostMapping(value = "/updateProfile")
     public String updateProfile(@Valid @ModelAttribute("profile") Profile profile, Errors errors,
-                                HttpSession session)
+            HttpSession session)
     {
         if(errors.hasErrors()){
             return "profile.html";
